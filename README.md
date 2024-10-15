@@ -6,11 +6,11 @@ Welcome to the Groovy Music Maestro repository! This is your symphony of scripts
 
 Explore the harmonious scripts we have in store:
 
-- ## 🎷 Jazz Jam: Improvise with dynamic Groovy scripts to enhance your workflows.
-- ## 🎻 Classical Crescendo: Timeless solutions for automating routine tasks.
-- ## 🎸 Rock Riffs: Power up your processes with high-energy Groovy transformations.
-- ## 🎤 Vocal Virtuoso: Scripts that give voice to your data with eloquent reporting.
-- ## 🎹 Pop Perfection: Quick and catchy solutions for everyday needs.
+- ##🎷 Jazz Jam**: Improvise with dynamic Groovy scripts to enhance your workflows.
+- ##🎻 Classical Crescendo**: Timeless solutions for automating routine tasks.
+- ##🎸 Rock Riffs**: Power up your processes with high-energy Groovy transformations.
+- ##🎤 Vocal Virtuoso**: Scripts that give voice to your data with eloquent reporting.
+- ##🎹 Pop Perfection**: Quick and catchy solutions for everyday needs.
 
 ## 🚀 How to Strike a Chord
 
