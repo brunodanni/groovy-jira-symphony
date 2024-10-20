@@ -14,7 +14,7 @@ import java.util.Base64
 def BASE_URI = 'https://your-jira-instance.atlassian.net' // Replace with your Jira instance URL
 def EMAIL = 'your-email@example.com' // Replace with your email
 def API_TOKEN = 'your-api-token' // Replace with your API token
-def CUSTOM_FIELD_ID = "customfield_10393" // ID of the custom field for technology expertise
+def CUSTOM_FIELD_ID = "customfield_xxxxxx" // ID of the custom field for technology expertise
 def GROUPS = [
     'Java'  : 'java-group-id',    // Replace with actual group ID for Java developers
     'Python': 'python-group-id'   // Replace with actual group ID for Python developers
